@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Negative Login - Data Kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>39327a02-aacb-4c3d-a31a-047eac9e8cfc</testCaseGuid>
+</TestCaseEntity>

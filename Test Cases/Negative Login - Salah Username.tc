@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Negative Login - Salah Username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef9eaeba-b71a-4dcd-8527-a3bf8444f18c</testCaseGuid>
+</TestCaseEntity>
